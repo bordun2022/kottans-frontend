@@ -6,6 +6,10 @@ __Stage 0__
 
 - [x] **0.** [Git Basics](#git-basics)
     - Course: Version Control with Git
+<details>
+<summary>screenshots</summary>
+![Coursera_Week1_1](kottans-frontend/Git_Basic/Coursera_Week1_1.PNG)
+</details>
 
     - Course: Learn Git branching
 - [ ] **1.** [Linux CLI and Networking](#linux-cli-and-http)
