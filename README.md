@@ -1,18 +1,18 @@
 # kottans-frontend
----
-## About me
-Hello!:raising_hand_woman: My name is Alyona, I'm from Ukraine and I've decided to learn frontend-development with this amazing course "Kottans frontend":woman_technologist: :books:
----
-## Curriculum:
-**General**
+### About me
+Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn frontend-development with this amazing course "Kottans frontend":woman_technologist: :books:
+
+__Stage 0__
+
 - [x] **0.** [Git Basics](#git-basics)
     - Course: Version Control with Git
+
     - Course: Learn Git branching
-- [x] **1.** [Linux CLI and Networking](#linux-cli-and-http)
+- [ ] **1.** [Linux CLI and Networking](#linux-cli-and-http)
     - Course: Linux Survival
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 1
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 2
-- [x] **2.** [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+- [ ] **2.** [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
     - Course: GitHub & Collaboration
     - Course: Learn Git branching (last levels)
 **Front-End Basics**
@@ -35,6 +35,4 @@ Hello!:raising_hand_woman: My name is Alyona, I'm from Ukraine and I've decided 
 - [ ] **13.** [Website Performance Optimization]()
 - [ ] **14.** [Friends App]() - real project!
 ---
-## General
----
-### Git Basics
+
