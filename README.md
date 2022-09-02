@@ -2,16 +2,16 @@
 ### About me
 Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn frontend-development with this amazing course "Kottans frontend":woman_technologist: :books:
 
-__Stage 0__
+### Stage 0. Self-Study
 
-- [x] **0.** [Git Basics](#git-basics)
+:pushpin: __General__
+
+- [x] [Git Basics](#git-basics)
     - Course: Version Control with Git
-<details>
-<summary>screenshots</summary>
-![Coursera_Week1_1](kottans-frontend/Git_Basic/Coursera_Week1_1.PNG)
+<details><summary>screenshots</summary>
+![Coursera-Week1-1](Git_Basic/Coursera_Week1_1.png)
 </details>
 
-    - Course: Learn Git branching
 - [ ] **1.** [Linux CLI and Networking](#linux-cli-and-http)
     - Course: Linux Survival
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 1
