@@ -6,8 +6,8 @@ Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn 
 
 :pushpin: __General__
 
-- [x] [Git Basics](#git-basics)
-    - Course: Version Control with Git
+- [x] [Git Basics](#git-basics):
+    - [x] Course: Version Control with Git
 ![Coursera-Week1-1](Git_Basic/Coursera_Week1_1.png)
 ![Coursera-Week1-2](Git_Basic/Coursera_Week1_2.png)
 ![Coursera-Week1-3](Git_Basic/Coursera_Week1_3.png)
@@ -18,9 +18,9 @@ Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn 
 ![Coursera-Week2-3](Git_Basic/Coursera_Week2_3.png)
 ![Coursera-Week2-4](Git_Basic/Coursera_Week2_4.png)
 ![Coursera-Week2-5](Git_Basic/Coursera_Week2_5.png)
-  - Course: LearnGitBranching
-![LGB1](Git_Basic/LearningGitBranching 1.png)
-![LGB2](Git_Basic/LearningGitBranching 2.png)
+  - [x] Course: LearnGitBranching:
+![LearningGitBranching 1](Git_Basic/LearningGitBranching 1.png)
+![LearningGitBranching 2](Git_Basic/LearningGitBranching 2.png)
 
 - [ ] **1.** [Linux CLI and Networking](#linux-cli-and-http)
     - Course: Linux Survival
@@ -48,5 +48,5 @@ Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn 
 - [ ] **12.** [Memory pair game]() — real project!
 - [ ] **13.** [Website Performance Optimization]()
 - [ ] **14.** [Friends App]() - real project!
----
+
 
