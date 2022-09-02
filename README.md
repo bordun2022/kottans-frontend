@@ -8,9 +8,19 @@ Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn 
 
 - [x] [Git Basics](#git-basics)
     - Course: Version Control with Git
-<details><summary>Screenshots</summary>
-![Coursera-Week1-1](/assets/Git_basic/Coursera_Week1_1.png)
-</details>
+![Coursera-Week1-1](Git_Basic/Coursera_Week1_1.png)
+![Coursera-Week1-2](Git_Basic/Coursera_Week1_2.png)
+![Coursera-Week1-3](Git_Basic/Coursera_Week1_3.png)
+![Coursera-Week1-4](Git_Basic/Coursera_Week1_4.png)
+![Coursera-Week1-5](Git_Basic/Coursera_Week1_5.png)
+![Coursera-Week2-1](Git_Basic/Coursera_Week2_1.png)
+![Coursera-Week2-2](Git_Basic/Coursera_Week2_2.png)
+![Coursera-Week2-3](Git_Basic/Coursera_Week2_3.png)
+![Coursera-Week2-4](Git_Basic/Coursera_Week2_4.png)
+![Coursera-Week2-5](Git_Basic/Coursera_Week2_5.png)
+  - Course: LearnGitBranching
+![LGB1](Git_Basic/LearningGitBranching 1.png)
+![LGB2](Git_Basic/LearningGitBranching 2.png)
 
 - [ ] **1.** [Linux CLI and Networking](#linux-cli-and-http)
     - Course: Linux Survival
