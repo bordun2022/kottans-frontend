@@ -8,8 +8,8 @@ Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn 
 
 - [x] [Git Basics](#git-basics)
     - Course: Version Control with Git
-<details><summary>screenshots</summary>
-![Coursera-Week1-1](Git_Basic/Coursera_Week1_1.png)
+<details><summary>Screenshots</summary>
+![Coursera-Week1-1](/assets/Git_basic/Coursera_Week1_1.png)
 </details>
 
 - [ ] **1.** [Linux CLI and Networking](#linux-cli-and-http)
