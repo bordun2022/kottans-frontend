@@ -1,6 +1,6 @@
 # kottans-frontend
 ## About me
-Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn frontend-development with this amazing course "Kottans frontend":woman_technologist: :books: I will do my best to achieve results. Thanks for opportunity!
+Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn frontend-development with this amazing course "Kottans frontend":woman_technologist: :books: I will do my best to achieve results. Thanks for opportunity.
 
 ### Stage 0. Self-Study
 
