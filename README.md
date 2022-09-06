@@ -46,8 +46,22 @@ In addition, I am learning __Markdown__ for myself, since I have not worked with
 <p>And, I advise to go through additional materials together with the main material, and not postpone it for later, because you can also find something useful for yourself. </p>
 <p>Thank you, I will continue...:woman_technologist:</p>
 
-#### 2. [Linux CLI and Networking](#linux-cli-and-http)
-    - [ ] 2.1. Course: Linux Survival
+#### 2. [Linux CLI and, HTTP](#linux-cli-and-http)
+    - [x] 2.1. Course: Linux Survival
+<p> I want to say a few words about the course <b>Linux Survival (4 modules)</b> :+1: </p>
+
+I’ve got knowledge of basic commands in Linux such as: __«ls», «mkdir», «rmdir», «cd», «more», «pwd», «mv», «rm», «cp»__.
+
+<p> New for me was that the <b>«rmdir»</b> command can only remove an empty directory. The commands: <b>«more», «pwd», «cp»</b> were unknown for me before </p>
+
+<p>In module 2, I've learned about how provided the access with some actions in files of directory. I’ve learned  the <b>«chmod»</b> command. I’ve learned about the possibility to select all files in a directory using <b>«*»</b> or  e.g. files with -ing ending - <b>«ls *ing»</b> and so on.</p>
+<p>The third module was the most difficult.:disappointed_relieved: I got knowledges about moving between files in the directory. How to get to the home folder, how to indicate that you are in the current folder. The <b>«find»</b> command was surprising. Quite useful and convenient thing, I will definitely use it at work.:+1:</p>
+<p>The command <b>«cat» and «>» and «>>»</b> were new to me. Separately, I enjoyed the commands related to printing files. It was quite clear for me such as: <b>«lpr» (send to print), «lpq» (show the print queue), «lprm» (delete a file from printing).</b> I’ve learned how to bind with some printer through the command line.</p>
+<p>In module 4, the <b>«kill»</b> command and the tougher <b>«kill -9»</b>  - for forced removal were the most surprising.
+<p>In addition, the <b>«df»</b> command was new to get understanding how much space is left in the directory. I learned how to copy files from someone else's directory to my own using <b>«cp -r»</b>, and how to delete a directory with files using <b>«rm -r»</b>. New to me was the command called <b>«ps»</b> that checks the status of the program and the technical mark <b>«|»</b>. In addition, the <b>«grep»</b> command for finding every repetition of a word in a file was interesting for me.:+1::+1:</p> 
+
+I believe that knowledge of Linux system commands will be quite necessary and useful in work :woman_technologist:
+
     - [ ] 2.2. Article: HTTP: The Protocol Every Web Developer Must Know - Part 1
     - [ ] 2.3. Article: HTTP: The Protocol Every Web Developer Must Know - Part 2
 #### 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
