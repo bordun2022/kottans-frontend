@@ -73,7 +73,7 @@ I’ve got knowledge of basic commands in Linux such as: __«ls», «mkdir», «
 
 I believe that knowledge of Linux system commands will be quite necessary and useful in work :woman_technologist:
 
-- [x] 2.2. <b>Article: HTTP: The Protocol Every Web Developer Must Know - Part 1</b> 
+- [x] 2.2. <b><ins>Article: HTTP: The Protocol Every Web Developer Must Know - Part 1</ins></b> 
 
 <p>In Article №1, I’ve learned that <b>HTTP</b> is a special protocol for delivering a document to a Web browser by a Web server. :computer::globe_with_meridians: Also <b>TCP (Transmission Control Protocol)</b> is used as the transport protocol. </p>
 <p>What was new to me and what surprised me that the HTTP protocol is considered as stateless protocol, that why, it does not store information about the user's session; each data transfer is considered as a new session.</p>
@@ -84,10 +84,10 @@ I believe that knowledge of Linux system commands will be quite necessary and us
 <p>Having gained knowledge about these types of responses, I can now easily apply them in my future work.</p>
 <p>I learned about the availability of libraries and frameworks such as ExpressJS (for Node), Ruby on Rails and jQuery Ajax.</p>
 
-- [x] 2.3. <b>Article: HTTP: The Protocol Every Web Developer Must Know - Part 2</b>
+- [x] 2.3. <b><ins>Article: HTTP: The Protocol Every Web Developer Must Know - Part 2</ins></b>
 <p>In Article №2,  interesting and new to me was that a frontend developer must have knowledge about server client <b>identification and authentication.</b> This goal is to track site or app traffic and regular user behavior patterns. I will use the acquired knowledge in the future.</p>
 <p>In addition, it was new to me that there are several ways to get information about the user from the server, through <b>IP address, request headers, cookies:cookie: etc.</b> I’ve learned that cookies are the most popular and unobtrusive files, because it is necessary to get the user's prior approval for their use.</p>
-<p>What surprised me was that HTTP with a secure connection is currently being used, namely HTTP<b><i>S</i></b> - <b>HTTP <i>Secure.</i></b> I checked my browser's own address bar and found <u>HTTPS protocol</u> there.:+1:</p>
+<p>What surprised me was that HTTP with a secure connection is currently being used, namely HTTP<b><i><ins>S</ins></i></b> - <b>HTTP <i><ins>Secure.</ins></i></b> I checked my browser's own address bar and found <u>HTTPS protocol</u> there.:+1:</p>
 
 #### 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
     - [ ] 3.1. Course: GitHub & Collaboration
