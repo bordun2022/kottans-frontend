@@ -47,7 +47,18 @@ In addition, I am learning __Markdown__ for myself, since I have not worked with
 <p>Thank you, I will continue...:woman_technologist:</p>
 
 #### 2. [Linux CLI and, HTTP](#linux-cli-and-http)
-    - [x] 2.1. Course: Linux Survival
+- [x] 2.1. Course: Linux Survival
+<details>
+    <summary>Screenshots</summary>
+      <img src="task_linux_cli/Quiz 1.png/">
+      <img src="task_linux_cli/End of Module 1.png">
+      <img src="task_linux_cli/Quiz 2.png">
+      <img src="task_linux_cli/End of Module 2.png">
+      <img src="task_linux_cli/Quiz 3.png">
+      <img src="task_linux_cli/End of Module 3.png">
+      <img src="task_linux_cli/Quiz 4.png">
+      <img src="task_linux_cli/End of Module 4. Conclusion.png">
+</details>
 <p> I want to say a few words about the course <b>Linux Survival (4 modules)</b> :+1: </p>
 
 I’ve got knowledge of basic commands in Linux such as: __«ls», «mkdir», «rmdir», «cd», «more», «pwd», «mv», «rm», «cp»__.
@@ -62,8 +73,22 @@ I’ve got knowledge of basic commands in Linux such as: __«ls», «mkdir», «
 
 I believe that knowledge of Linux system commands will be quite necessary and useful in work :woman_technologist:
 
-    - [ ] 2.2. Article: HTTP: The Protocol Every Web Developer Must Know - Part 1
-    - [ ] 2.3. Article: HTTP: The Protocol Every Web Developer Must Know - Part 2
+- [x] 2.2. <b>Article: HTTP: The Protocol Every Web Developer Must Know - Part 1</b> 
+
+<p>In Article №1, I’ve learned that <b>HTTP</b> is a special protocol for delivering a document to a Web browser by a Web server. :computer::globe_with_meridians: Also <b>TCP (Transmission Control Protocol)</b> is used as the transport protocol. </p>
+<p>What was new to me and what surprised me that the HTTP protocol is considered as stateless protocol, that why, it does not store information about the user's session; each data transfer is considered as a new session.</p>
+<p>I also learned about the current version of this protocol, which is used nowadays, namely __HTTP/1.1__ </p>
+<p>I’ve studied the structure of a URL, which consists of :one:protocol, :two:host, 	:three:port, 	:four:resource path, and :five:request.</p>
+<p>I learned about the most frequently used __«GET»__ request method and about other methods such as <b>POST, PUT, DELETE</b> etc.</p>
+<p>Totally new to me were the numerical responses from the server, some of them were known, like <b>200 OK</b> and <b>404 Not Found.</b> But the group of <b>301, 303 about moving the address, 401 about the need for authentication, 403 (denied access to the resource), 500 (internal server error), 503 about the impossibility of processing requests by the server for technical reasons or overload</b>, and others - were completely new to me.</p>
+<p>Having gained knowledge about these types of responses, I can now easily apply them in my future work.</p>
+<p>I learned about the availability of libraries and frameworks such as ExpressJS (for Node), Ruby on Rails and jQuery Ajax.</p>
+
+- [x] 2.3. <b>Article: HTTP: The Protocol Every Web Developer Must Know - Part 2</b>
+<p>In Article №2,  interesting and new to me was that a frontend developer must have knowledge about server client <b>identification and authentication.</b> This goal is to track site or app traffic and regular user behavior patterns. I will use the acquired knowledge in the future.</p>
+<p>In addition, it was new to me that there are several ways to get information about the user from the server, through <b>IP address, request headers, cookies:cookie: etc.</b> I’ve learned that cookies are the most popular and unobtrusive files, because it is necessary to get the user's prior approval for their use.</p>
+<p>What surprised me was that HTTP with a secure connection is currently being used, namely HTTP<b><i>S</i></b> - <b>HTTP <i>Secure.</i></b> I checked my browser's own address bar and found <u>HTTPS protocol</u> there.:+1:</p>
+
 #### 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
     - [ ] 3.1. Course: GitHub & Collaboration
     - [ ] 3.2. Course: Learn Git branching (last levels)
