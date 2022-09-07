@@ -77,7 +77,7 @@ I believe that knowledge of Linux system commands will be quite necessary and us
 
 <p>In Article №1, I’ve learned that <b>HTTP</b> is a special protocol for delivering a document to a Web browser by a Web server. :computer::globe_with_meridians: Also <b>TCP (Transmission Control Protocol)</b> is used as the transport protocol. </p>
 <p>What was new to me and what surprised me that the HTTP protocol is considered as stateless protocol, that why, it does not store information about the user's session; each data transfer is considered as a new session.</p>
-<p>I also learned about the current version of this protocol, which is used nowadays, namely __HTTP/1.1__ </p>
+<p>I also learned about the current version of this protocol, which is used nowadays, namely <b>HTTP/1.1</b> </p>
 <p>I’ve studied the structure of a URL, which consists of :one:protocol, :two:host, 	:three:port, 	:four:resource path, and :five:request.</p>
 <p>I learned about the most frequently used <b>«GET»</b> request method and about other methods such as <b>POST, PUT, DELETE</b> etc.</p>
 <p>Totally new to me were the numerical responses from the server, some of them were known, like <b>200 OK</b> and <b>404 Not Found.</b> But the group of <b>301, 303 about moving the address, 401 about the need for authentication, 403 (denied access to the resource), 500 (internal server error), 503 about the impossibility of processing requests by the server for technical reasons or overload</b>, and others - were completely new to me.</p>
@@ -91,6 +91,18 @@ I believe that knowledge of Linux system commands will be quite necessary and us
 
 #### 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 - [x] 3.1. <b><ins>Course: GitHub & Collaboration</ins></b>
+
+<details>
+    <summary>Screenshots</summary>
+       <img src="task_git_collaboration/Coursera_Week3_1.png">
+       <img src="task_git_collaboration/Coursera_Week3_2.png">
+       <img src="Gtask_git_collaboration/Coursera_Week3_3.png">
+       <img src="task_git_collaboration/Coursera_Week3_4.png">
+       <img src="task_git_collaboration/Coursera_Week4_1.png">
+       <img src="task_git_collaboration/Coursera_Week4_2.png">
+       <img src="task_git_collaboration/Coursera_Week4_3.png">
+       <img src="task_git_collaboration/Coursera_Week4_4.png">
+    </details>
 
 <p> After listening to Weeks 3 and 4 of the Coursera: Introduction to Git and GitHub course, I've got knowledge about <b>Squash and Fixup</b> when rebasing. I’ve learned that squash merges commit messages into one. Fixup discards the new commit message. The fixup operation will preserve the original message and discard the messages from the fixup commit, while squash will merge them. </p>
 <p>What really turned out to be interesting and really surprised is the topic about <b><i>Reviewing the code</i></b> and taking into account the comments of other developers.
@@ -108,8 +120,14 @@ I will definitely communicate with other developers in my future work and always
  <p> :three: Ensure we don't forget any important cases.</p>
 
 - [x] <b><ins>3.2. Course: Learn Git branching (last levels)</b></ins>
+
+<details>
+    <summary>Screenshots</summary>
+      <img src="Git-Basics/LearnGitBranching_1.png">
+      <img src="Git-Basics/LearnGitBranching_2.png">
+</details>
     <p> About learnGitBranching course topics: <b><i>Basics: Moving work back and forth and Remote repositories: Through origin - to the stars. Progressive use of Git Remotes</i></b></p>
-<p>I want to say that when I was learning Git Basic, I was so fascinated by learning with the learnGitBranching-course so I <ins>passed through all the topics of this course.</ins> Therefore, I will simply duplicate the screenshots here (..Ohh..I think: Why everything is super clear to me in 3 and 4 weeks of Coursera :sweat_smile:)</p>
+<p>I want to say that when I was learning Git Basic, I was so fascinated by learning with the learnGitBranching-course so I <ins>passed through all the topics of this course.</ins> Therefore, I will simply duplicate the screenshots here (..Ohh..And I think: Why almost everything is super clear to me in 3 and 4 weeks of Coursera :sweat_smile:)</p>
  
 :pushpin: __FRONT-END BASICS__
 #### 1. [Intro to HTML & CSS](#intro-to-html-and-css)
