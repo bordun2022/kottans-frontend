@@ -90,9 +90,27 @@ I believe that knowledge of Linux system commands will be quite necessary and us
 <p>What surprised me was that HTTP with a secure connection is currently being used, namely HTTP<b><i><ins>S</ins></i></b> - <b>HTTP <i><ins>Secure.</ins></i></b> I checked my browser's own address bar and found <u>HTTPS protocol</u> there.:+1:</p>
 
 #### 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
-    - [ ] 3.1. Course: GitHub & Collaboration
-    - [ ] 3.2. Course: Learn Git branching (last levels)
-    
+- [x] 3.1. <b><ins>Course: GitHub & Collaboration</ins></b>
+
+<p> After listening to Weeks 3 and 4 of the Coursera: Introduction to Git and GitHub course, I've got knowledge about <b>Squash and Fixup</b> when rebasing. I’ve learned that squash merges commit messages into one. Fixup discards the new commit message. The fixup operation will preserve the original message and discard the messages from the fixup commit, while squash will merge them. </p>
+<p>What really turned out to be interesting and really surprised is the topic about <b><i>Reviewing the code</i></b> and taking into account the comments of other developers.
+I will definitely communicate with other developers in my future work and always appreciate their comments.</p>
+<p>I've learned about common code issues that might be addressed in a code review such as:
+ 
+  * Using unclear names;
+  * Forgetting to add tests;
+  * Forgetting to handle a specific condition.</p>
+ 
+<p><b><ins>I've learned that the goals of code review are:</b></ins>
+ 
+ <p> :one: Make sure that contents are easy to understand;</p>
+ <p> :two: Ensure consistent styles;</p>
+ <p> :three: Ensure we don't forget any important cases.</p>
+
+- [x] <b><ins>3.2. Course: Learn Git branching (last levels)</b></ins>
+    <p> About learnGitBranching course topics: <b><i>Basics: Moving work back and forth and Remote repositories: Through origin - to the stars. Progressive use of Git Remotes</i></b></p>
+<p>I want to say that when I was learning Git Basic, I was so fascinated by learning with the learnGitBranching-course so I <ins>passed through all the topics of this course.</ins> Therefore, I will simply duplicate the screenshots here (..Ohh..I think: Why everything is super clear to me in 3 and 4 weeks of Coursera :sweat_smile:)</p>
+ 
 :pushpin: __FRONT-END BASICS__
 #### 1. [Intro to HTML & CSS](#intro-to-html-and-css)
     - [ ] 1.1. Course: Intro to HTML & CSS (Udasity)
