@@ -79,7 +79,7 @@ I believe that knowledge of Linux system commands will be quite necessary and us
 <p>What was new to me and what surprised me that the HTTP protocol is considered as stateless protocol, that why, it does not store information about the user's session; each data transfer is considered as a new session.</p>
 <p>I also learned about the current version of this protocol, which is used nowadays, namely __HTTP/1.1__ </p>
 <p>I’ve studied the structure of a URL, which consists of :one:protocol, :two:host, 	:three:port, 	:four:resource path, and :five:request.</p>
-<p>I learned about the most frequently used __«GET»__ request method and about other methods such as <b>POST, PUT, DELETE</b> etc.</p>
+<p>I learned about the most frequently used <b>«GET»</b> request method and about other methods such as <b>POST, PUT, DELETE</b> etc.</p>
 <p>Totally new to me were the numerical responses from the server, some of them were known, like <b>200 OK</b> and <b>404 Not Found.</b> But the group of <b>301, 303 about moving the address, 401 about the need for authentication, 403 (denied access to the resource), 500 (internal server error), 503 about the impossibility of processing requests by the server for technical reasons or overload</b>, and others - were completely new to me.</p>
 <p>Having gained knowledge about these types of responses, I can now easily apply them in my future work.</p>
 <p>I learned about the availability of libraries and frameworks such as ExpressJS (for Node), Ruby on Rails and jQuery Ajax.</p>
