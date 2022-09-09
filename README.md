@@ -131,9 +131,32 @@ I will definitely communicate with other developers in my future work and always
  
 :pushpin: __FRONT-END BASICS__
 #### 1. [Intro to HTML & CSS](#intro-to-html-and-css)
-    - [ ] 1.1. Course: Intro to HTML & CSS (Udasity)
-    - [ ] 1.2. Course: Learn HTML(Codeacademy)
-    - [ ] 1.3.  Course: Learn CSS(Codeacademy)
+- [x] 1.1. <b><ins>Course: Intro to HTML & CSS (Coursera)</ins></b>
+
+<details>
+    <summary>Screenshots</summary>
+      <img src="task_html_css_intro/Coursera_Intro_HTML_Week1_1.png">
+      <img src="task_html_css_intro/Coursera_Intro_HTML_Week1_2.png">
+      <img src="task_html_css_intro/Coursera_Intro_HTML_Week1_3.png">
+      <img src="task_html_css_intro/Coursera_Intro_CSS_Week2_1.png">
+      <img src="task_html_css_intro/Coursera_Intro_CSS_Week2_2.png">
+</details>
+    
+   :star: My impressions: :star:
+    <p>Throughout this course I've learned that the core purpose of HTML is to <b><i>Communicate the structure of the content, because HTML defines content structure.</i></b> I've learned about the new for me site https://caniuse.com/ that explains which HTML-attribute can be used in a specific browser version. I will use it in my future work. I've learned about <i>meta tags</i>, why they are needed(e.g. to communicate information TO THE BROWSER); learned about new for me Quirks Mode.</p>
+    <p> In CSS-course I've learned a new for me information about how reset default values of the browser (to set margin: 0; padding: 0 in body section in style.css file). The most interesting and surprizing topic for me was <b><ins>«relative and absolute position»</ins></b>. I will definitely use this knowledge in work. </p> 
+    <p> Really enjoyed the lectures about <b>Media queries, Bootstrap and Grids</b> :fire::fire:</p>
+   
+ - [x] 1.2. <b>Course:<ins>Learn HTML + CSS</ins>(Codeacademy)</b>
+ 
+ <details>
+    <summary>Screenshots</summary>
+      <img src="task_html_css_intro/Codeacademy.png">
+</details>
+
+<p>This course was also interesting and enjoying. The Codeacademy-sandbox was a little buggy and dangling, but OK! New for me was <b>«forms-topic»</b> and that the value of id-attribute (identificator) in input must match with label for-attribute. And when we want to limit usernames-form to only letters and numbers (and not special characters like ! or @) we can add a pattern attribute and set it to: "[a-zA-Z0-9]+". Thanks!:+1:</p>
+
+
 #### 2. [Responsive Web Design](#responsive-web-design)
     - [ ] 2.1. Course: Responsive Web Design Fundamentals
     - [ ] 2.2. Game: Flexbox froggy
