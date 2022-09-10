@@ -1,12 +1,14 @@
 # kottans-frontend
-## About me
+# About me
 Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn frontend-development with this amazing course "Kottans frontend":woman_technologist: :books: I will do my best to achieve results. Thanks for opportunity.
 
-### Stage 0. Self-Study
+## Stage 0. Self-Study
 
 :pushpin: __GENERAL__
 
-#### 1. Git Basics
+---
+
+### 1. Git Basics
 - [x] 1.1. Course: Version Control with Git
  <details>
     <summary>Screenshots</summary>
@@ -46,7 +48,9 @@ In addition, I am learning __Markdown__ for myself, since I have not worked with
 <p>And, I advise to go through additional materials together with the main material, and not postpone it for later, because you can also find something useful for yourself. </p>
 <p>Thank you, I will continue...:woman_technologist:</p>
 
-#### 2. [Linux CLI and, HTTP](#linux-cli-and-http)
+---
+
+### 2. [Linux CLI and, HTTP](#linux-cli-and-http)
 - [x] 2.1. Course: Linux Survival
 <details>
     <summary>Screenshots</summary>
@@ -73,6 +77,8 @@ I’ve got knowledge of basic commands in Linux such as: __«ls», «mkdir», «
 
 I believe that knowledge of Linux system commands will be quite necessary and useful in work :woman_technologist:
 
+---
+
 - [x] 2.2. <b><ins>Article: HTTP: The Protocol Every Web Developer Must Know - Part 1</ins></b> 
 
 <p>In Article №1, I’ve learned that <b>HTTP</b> is a special protocol for delivering a document to a Web browser by a Web server. :computer::globe_with_meridians: Also <b>TCP (Transmission Control Protocol)</b> is used as the transport protocol. </p>
@@ -84,12 +90,16 @@ I believe that knowledge of Linux system commands will be quite necessary and us
 <p>Having gained knowledge about these types of responses, I can now easily apply them in my future work.</p>
 <p>I learned about the availability of libraries and frameworks such as ExpressJS (for Node), Ruby on Rails and jQuery Ajax.</p>
 
+---
+
 - [x] 2.3. <b><ins>Article: HTTP: The Protocol Every Web Developer Must Know - Part 2</ins></b>
 <p>In Article №2,  interesting and new to me was that a frontend developer must have knowledge about server client <b>identification and authentication.</b> This goal is to track site or app traffic and regular user behavior patterns. I will use the acquired knowledge in the future.</p>
 <p>In addition, it was new to me that there are several ways to get information about the user from the server, through <b>IP address, request headers, cookies:cookie: etc.</b> I’ve learned that cookies are the most popular and unobtrusive files, because it is necessary to get the user's prior approval for their use.</p>
 <p>What surprised me was that HTTP with a secure connection is currently being used, namely HTTP<b><i><ins>S</ins></i></b> - <b>HTTP <i><ins>Secure.</ins></i></b> I checked my browser's own address bar and found <u>HTTPS protocol</u> there.:+1:</p>
 
-#### 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+---
+
+### 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 - [x] 3.1. <b><ins>Course: GitHub & Collaboration</ins></b>
 
 <details>
@@ -129,8 +139,10 @@ I will definitely communicate with other developers in my future work and always
     <p> About learnGitBranching course topics: <b><i>Basics: Moving work back and forth and Remote repositories: Through origin - to the stars. Progressive use of Git Remotes</i></b></p>
 <p>I want to say that when I was learning Git Basic, I was so fascinated by learning with the learnGitBranching-course so I <ins>passed through all the topics of this course.</ins> Therefore, I will simply duplicate the screenshots here (..Ohh..And I think: Why almost everything is super clear to me in 3 and 4 weeks of Coursera :sweat_smile:)</p>
  
+ ---
+ 
 :pushpin: __FRONT-END BASICS__
-#### 1. [Intro to HTML & CSS](#intro-to-html-and-css)
+### 1. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [x] 1.1. <b><ins>Course: Intro to HTML & CSS (Coursera)</ins></b>
 
 <details>
@@ -157,25 +169,25 @@ I will definitely communicate with other developers in my future work and always
 <p>This course was also interesting and enjoying. The Codeacademy-sandbox was a little buggy and dangling, but OK! New for me was <b>«forms-topic»</b> and that the value of id-attribute (identificator) in input must match with label for-attribute. And when we want to limit usernames-form to only letters and numbers (and not special characters like ! or @) we can add a pattern attribute and set it to: "[a-zA-Z0-9]+". Thanks!:+1:</p>
 
 
-#### 2. [Responsive Web Design](#responsive-web-design)
+### 2. [Responsive Web Design](#responsive-web-design)
     - [ ] 2.1. Course: Responsive Web Design Fundamentals
     - [ ] 2.2. Game: Flexbox froggy
-#### 3. [HTML & CSS Practice]()
+### 3. [HTML & CSS Practice]()
     - [ ] 3.1. Hooli-style Popup
-#### 4. [JavaScript Basics]()
+### 4. [JavaScript Basics]()
     - [ ] 4.1. Вступ до JS
-#### 5. [Document Object Model]() - practice
+### 5. [Document Object Model]() - practice
     - [ ] 5.1. Frontend основи про DOM API
     - [ ] 5.2. Практичне завдання 
     
 :pushpin: __ADVANCED TOPICS__
-#### 1. [Building a Tiny JS World (pre-OOP)]() - practice
+### 1. [Building a Tiny JS World (pre-OOP)]() - practice
     - [ ] 1.1. Building a Tiny JS World - завдання
-#### 2. [Object oriented JS]() - practice
-#### 3. [OOP exercise]() - practice
-#### 4. [Offline Web Applications]()
-#### 5. [Memory pair game]() — real project!
-#### 6. [Website Performance Optimization]()
-#### 7. [Friends App]() - real project!
+### 2. [Object oriented JS]() - practice
+### 3. [OOP exercise]() - practice
+### 4. [Offline Web Applications]()
+### 5. [Memory pair game]() — real project!
+### 6. [Website Performance Optimization]()
+### 7. [Friends App]() - real project!
 
 
