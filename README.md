@@ -166,12 +166,37 @@ I will definitely communicate with other developers in my future work and always
       <img src="task_html_css_intro/Codeacademy.png">
 </details>
 
-<p>This course was also interesting and enjoying. The Codeacademy-sandbox was a little buggy and dangling, but OK! New for me was <b>«forms-topic»</b> and that the value of id-attribute (identificator) in input must match with label for-attribute. And when we want to limit usernames-form to only letters and numbers (and not special characters like ! or @) we can add a pattern attribute and set it to: "[a-zA-Z0-9]+". Thanks!:+1:</p>
+<p>This course was also interesting and enjoying. The Codeacademy-sandbox was a little buggy and dangling, but OK! New for me was <b>«forms-topic»</b> and that the value of id-attribute (identificator) in input must match with label for-attribute. And when we want to limit usernames-form to only letters and numbers (and not special characters like ! or @) we can add a pattern attribute and set it to: «[a-zA-Z0-9]+». Thanks!:+1:</p>
 
+***
 
 ### 2. [Responsive Web Design](#responsive-web-design)
-    - [ ] 2.1. Course: Responsive Web Design Fundamentals
-    - [ ] 2.2. Game: Flexbox froggy
+  - [x] 2.1. <b><ins>Course: Responsive Web Design Fundamentals. Games: Flexbox Frogy, Grid Garden</ins></b>
+ 
+<p> 80% of the material about responsive web design was new for me :white_check_mark:</p>
+<p>From the Responsive Web Design article, I gained new knowledge about what <b><ins>«initial-scale=1»</ins></b> is (allowing browsers to set a 1:1 ratio between CSS pixels and hardware-independent pixels, regardless of device orientation , which allows the page to use the entire width of landscape orientation)
+ The value of the viewport meta tag <b><ins>«width=device-width»</ins></b> tells the page to match the width of the screen. The <b><ins>«viewport»</ins></b> meta tag gives the browser instructions for controlling the dimensions and scaling of the page.</p>
+<p>Now  I understand what these values created for, I can easily use them at work. What surprised me in the article was that, apart from the meaning
+initial-scale , you can also set the following viewport attributes: <br>
+:green_circle: minimum-scale <br>
+:large_blue_circle: maximum-scale <br>
+	:yellow_circle: user-scalable <br>
+<p>When used these attributes, the user may not be able to change the scale of the viewing area, which may cause accessibility problems. Therefore, the authors do not recommend using these attributes.</p>
+<p>In addition, what was new was that, as a rule, the Image has fixed dimensions, and if they exceed the dimensions of the viewing area, then this leads to the appearance of a scroll bar. A common way to solve this problem is to set the max-width property to 100% for all images. I will use this in my future work.</p>
+<p>I really liked Zheka's videos. I taught layout on my own several times based on his videos. He tells a lot of convenient and useful features at work. He spoke in more detail about the properties of flexbox, flex items, grid, etc.I will repeatedly return to him in my work.</p> 
+<p>Really liked the Flexbox Froggy :frog: and Grid Garden games:carrot:</p>
+<p>These games helped to learn the properties of flexbox and grid, to understand how they work in practice. The Grid Garden game from level 24 was difficult for me, I was surprised by the unit of measurement <b>«fr»</b> and the fact that it can be combined with <b>«%»</b> and <b>«px»</b>.</p>
+
+ <details>
+    <summary>Screenshots</summary>
+      <img src="task_responsive_web_design/Flexbox Froggy.png">
+      <img src="task_responsive_web_design/Grid Garden.png">
+</details>
+
+<p>Thank you for offering to study only relevant, necessary and really useful material:+1::+1:</p>
+
+***
+    
 ### 3. [HTML & CSS Practice]()
     - [ ] 3.1. Hooli-style Popup
 ### 4. [JavaScript Basics]()
