@@ -6,7 +6,6 @@ Hello Kottans! :raising_hand_woman: My name is Alyona and I've decided to learn 
 
 :pushpin: __GENERAL__
 
----
 
 ### 1. Git Basics
 - [x] 1.1. Course: Version Control with Git
