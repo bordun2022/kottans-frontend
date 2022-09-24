@@ -206,6 +206,7 @@ initial-scale , you can also set the following viewport attributes: <br>
 <p>It was a novelty to work with grids and flexes and media queries. I will use this knowledge in my work. Improved the skills of using the console in Google Chrome.</p> <br>
 <p>I learned new properties of flex, previously unknown. <br>
 It was amazing how wonderfully the blocks of code cooperated with each other.</p>
+
 ***   
     
 ### 4. [JavaScript Basics]()
