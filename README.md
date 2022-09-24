@@ -198,8 +198,24 @@ initial-scale , you can also set the following viewport attributes: <br>
     
 ### 3. [HTML & CSS Practice]()
     - [ ] 3.1. Hooli-style Popup
+***   
+    
 ### 4. [JavaScript Basics]()
-    - [ ] 4.1. Вступ до JS
+
+    - [x] Coursera - Introduction to Javascript:
+    <details>
+    <summary>Screenshots</summary>
+      <img src="task_js_basics/Coursera_JS Week 4 (1).png">
+      <img src="task_js_basics/Coursera_JS Week 4 (2).png">
+</details>
+    
+<p>In Courser's course of JS, I learned that the value <b>«Undefined»</b> in JavaScript has a specific meaning, and its meaning is that it was declared or defined, but it <b>was not set to any value.</b><br>
+In turn, <b>«null»</b> is the absence of any value at all.</p>
+
+<p>I was surprised by the topic of copying primitives and objects. I didn't know that if we change the value of the object in the copy, the value in the original value will also change.<br>
+In turn, if we change the original value in the primitive, the copy of the primitive will remain the previous one. It is really interesting and will be useful for me in my work.</p>
+<p>The themes of prototypes and closure were generally new. I think it will be 100% useful at work.</p>
+
 ### 5. [Document Object Model]() - practice
     - [ ] 5.1. Frontend основи про DOM API
     - [ ] 5.2. Практичне завдання 
