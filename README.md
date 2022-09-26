@@ -198,7 +198,7 @@ initial-scale , you can also set the following viewport attributes: <br>
     
 ### 3. [HTML & CSS Practice]()
 
-- [x] 3.1. Hooli-style Popup
+- [ ] 3.1. Hooli-style Popup...  <i>in the process of checking</i>
 
 [Demo](https://bordun2022.github.io/taskPopup/) |
 [Code base](https://github.com/bordun2022/taskPopup)
