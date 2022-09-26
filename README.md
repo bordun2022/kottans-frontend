@@ -209,9 +209,9 @@ It was amazing how wonderfully the blocks of code cooperated with each other.</p
 
 ***   
     
-### 4. [JavaScript Basics]()
+### 4. [JS Basics]()
 
-- [x] Coursera - Introduction to Javascript:
+- [x] <b><ins>Coursera - Introduction to Javascript:</ins></b>
     
     <details>
     <summary>Screenshots</summary>
@@ -225,6 +225,28 @@ In turn, <b>«null»</b> is the absence of any value at all.</p>
 <p>I was surprised by the topic of copying primitives and objects. I didn't know that if we change the value of the object in the copy, the value in the original value will also change.<br>
 In turn, if we change the original value in the primitive, the copy of the primitive will remain the previous one. It is really interesting and will be useful for me in my work.</p>
 <p>The themes of prototypes and closure were generally new. I think it will be 100% useful at work.</p>
+
+- [x] <b><ins>freeCodeCamp</ins></b>:
+
+    <details>
+    <summary>Screenshots</summary>
+      <img src="task_js_basics/FCC_Basic JS.png">
+      <img src="task_js_basics/FCC_Basic JS_0.png">
+      <img src="task_js_basics/FCC_ES6.png">
+      <img src="task_js_basics/FCC_ES6_0.png">
+      <img src="task_js_basics/FCC_Basic Data Structures.png">
+      <img src="task_js_basics/FCC_Basic Data Structures_0.png">
+      <img src="task_js_basics/FCC_Basic Algorithm Scripting .png">
+      <img src="task_js_basics/FCC_Basic Algorithm Scripting _0.png">
+      <img src="task_js_basics/FCC_Functional Programming.png">
+      <img src="task_js_basics/FCC_Functional Programming_0.png">
+      <img src="task_js_basics/FCC_Algorithm Scripting Challenges .png">
+      <img src="task_js_basics/FCC_Algorithm Scripting Challenges _0.png">
+</details>
+
+<p>About freeCodeCamp tasks. It is difficult to say exactly what was new, because 95% of the material was new.<br>
+The first three topics namely Basic JavaScript, ES6 Challenges, Basic Data Structures  were not particularly difficult for me.<br>
+However, the last three, and especially the Algorithm Scripting Challenges, were quite challenging. I believe that learning programming with the freeCodeCamp resource is quite difficult, because there is little information, but the tasks require a fairly high level of complexity for junior, like me. As soon as I get more practice especially with array iteration methods and others, I will definitely use this knowledge in my work. In my opinion, I would not recommend beginners to learn JS on the freeCodeCamp resource, although the skill of Googling and searching for a solution is definitely pumped up.<p>
 
 ### 5. [Document Object Model]() - practice
     - [ ] 5.1. Frontend основи про DOM API
