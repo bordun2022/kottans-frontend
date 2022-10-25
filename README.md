@@ -248,9 +248,22 @@ In turn, if we change the original value in the primitive, the copy of the primi
 The first three topics namely Basic JavaScript, ES6 Challenges, Basic Data Structures  were not particularly difficult for me.<br>
 However, the last three, and especially the Algorithm Scripting Challenges, were quite challenging. I believe that learning programming with the freeCodeCamp resource is quite difficult, because there is little information, but the tasks require a fairly high level of complexity for junior, like me. As soon as I get more practice especially with array iteration methods and others, I will definitely use this knowledge in my work. In my opinion, I would not recommend beginners to learn JS on the freeCodeCamp resource, although the skill of Googling and searching for a solution is definitely pumped up.<p>
 
-### 5. [Document Object Model]() - practice
-    - [ ] 5.1. Frontend основи про DOM API
-    - [ ] 5.2. Практичне завдання 
+***
+
+### 5. <b>[Document Object Model]</b>
+- [x] 5.1. Frontend basic about DOM API
+
+ <details>
+    <summary>Screenshots</summary>
+      <img src="task_js_dom/Coursera_DOM.png">
+      <img src="task_js_dom/FCC_DOM1.png">
+      <img src="task_js_dom/FCC_DOM2.png">
+</details>
+
+
+The DOM topic was completely new to me. Surprised that DOM, can change the HTML document, add new data there. I will use  DOM method, which I learned in this course, in my future projects
+
+    - [ ] 5.2. DOM task 
     
 :pushpin: __ADVANCED TOPICS__
 ### 1. [Building a Tiny JS World (pre-OOP)]() - practice
